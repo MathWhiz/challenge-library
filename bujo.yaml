@@ -1,9 +1,9 @@
 -
   challenge:
     name: ':closed_book: Bullet Journal 101'
-    group: '00000000-0000-4000-a000-000000000000' # PAPK: 76cf392c-a530-417a-a105-fd8dc49a651f
     shortName: ':closed_book: BuJo 101'
-    summary: 'Get started with the Bullet Journal system'
+    group: '00000000-0000-4000-a000-000000000000' # PAPK: 76cf392c-a530-417a-a105-fd8dc49a651f
+    summary: 'Get started with the Bullet Journal system!'
     description: |-
       # :closed_book: Bullet Journal 101
 
@@ -11,26 +11,14 @@
       > There are plenty of apps for that, but I needed a system flexible enough to handle whatever I threw at it and fast enough so that it wouldn't get in the way.
 
       — [Ryder Carroll](http://www.rydercarroll.com/), inventor of the [Bullet Journal](http://bulletjournal.com)
-
-      ---
-
-      *Powered by the [Planner Addicts of the Papery Kind](https://habitica.com/#/options/groups/guilds/76cf392c-a530-417a-a105-fd8dc49a651f) Guild*
-
-      ---
-
-      ## :trophy: Objectives:
-
-      1. Join the [Planner Addicts of the Papery Kind](https://habitica.com/#/options/groups/guilds/76cf392c-a530-417a-a105-fd8dc49a651f) Guild
-      2. Complete the numbered tasks
-      3. Share your progress with the Guild!
-
-      ---
+      
+      Get started with the Bullet Journal system! I have found this system very useful, and I hope that you will find it useful too!
 
       This Challenge ends at the end of the month. Enjoy!
   tasks:
     todos:
       -
-        text: ':zero::melior: Join the [Planner Addicts of the Papery Kind](https://habitica.com/#/options/groups/guilds/76cf392c-a530-417a-a105-fd8dc49a651f)'
+        text: ':melior: Join the [Planner Addicts of the Papery Kind](https://habitica.com/#/options/groups/guilds/76cf392c-a530-417a-a105-fd8dc49a651f)'
         priority: 0
       -
         text: ':one::movie_camera: Watch the original [Video](https://youtu.be/fm15cmYU0IM)'
@@ -38,7 +26,7 @@
         priority: 0
       -
         text: ':two::notebook: Obtain a notebook'
-        notes: 'Any empty notebook will do in a pinch, but consider how you will be using it almost every day.'
+        notes: 'Any empty notebook will do in a pinch, but consider how you will be using it almost every day. There is the [official Bullet Journal](https://store.bulletjournal.com/), if you are so inclined.'
         priority: 1.5
       -
         text: ':three::pencil2::black_nib: Obtain a writing implement'
@@ -53,7 +41,7 @@
       -
         text: ':seven::date: Set up the [Monthly Log](http://bulletjournal.com/get-started/#monthlylog)'
       -
-        text: ':package: Add Collections'
+        text: ':package: Add Collections to your Journal'
         notes: |-
           Suggested Ideas:
 
@@ -65,10 +53,75 @@
           * Mood Journal
           * Goals
       -
-        text: ':book: Read the [Blog](http://bulletjournal.com/blog/) for Ideas'
-      -
-        text: ':speech_balloon: Other Resources for ideas'
+        text: ':books: Resources'
         notes: |-
+          [Official Bullet Journal Blog](http://bulletjournal.com/blog/)
+          [Bullet Journal Reference Sheet](http://www.tinyrayofsunshine.com/blog/bullet-journal-reference-guide)  
+          [Official Bullet Journal (YouTube)](https://www.youtube.com/channel/UCt3B6rUXb__X2eMyY7jzgIg)  
+          [Boho Berry (YouTube)](https://www.youtube.com/channel/UCPTjjS_Cqrde9bR9Gz4PqdA)  
+          [/r/bulletjournal](https://www.reddit.com/r/bulletjournal/)  
+          [Official Companion app for iPhone](https://itunes.apple.com/us/app/bullet-journal-companion/id1201419241?mt=8) ($2.99)
+    dailies:
+      -
+        text: ':closed_book: Use your Bullet Journal!'
+        notes: 'Do a spread, create a collection, review your tasks, etc.'
+    habits:
+      -
+        text: ':thought_balloon: Review your tasks'
+        notes: Are there lists you haven't checked recently? Tasks you forgot to check off?
+        down: false
+        priority: 1.5
+        frequency: monthly
+      -
+        text: ':art: Personalize your BuJo!'
+        notes: 'Add tape, drawings, stickers, motivational quotes — make your BuJo your own!'
+        down: false
+      -
+        text: ':speech_balloon: Share your progress with [Planner Addicts of the Papery Kind](https://habitica.com/#/options/groups/guilds/76cf392c-a530-417a-a105-fd8dc49a651f)'
+        notes: 'Share pictures, ask questions, give support, etc.'
+        down: false
+        frequency: monthly
+      -
+        text: ':camera: Share your current Spread / Collection!'
+        down: false
+        frequency: monthly
+-
+  challenge:
+    name: ':blue_book: Bullet Journal 201'
+    shortName: ':blue_book: BuJo 201'
+    group: '00000000-0000-4000-a000-000000000000' # PAPK: 76cf392c-a530-417a-a105-fd8dc49a651f
+    summary: 'Continue working with the Bullet Journal system'
+    description: |-
+      # :closed_book: Bullet Journal 101
+
+      > We keep track of things — the things we've done, the things we need to do, the things we aspire to. There's a lot to keep track of.
+      > There are plenty of apps for that, but I needed a system flexible enough to handle whatever I threw at it and fast enough so that it wouldn't get in the way.
+
+      — [Ryder Carroll](http://www.rydercarroll.com/), inventor of the [Bullet Journal](http://bulletjournal.com)
+      
+      The Bullet Journal is designed to be a constantly evolving system, and this Challenge will hopefully help you review it!
+
+      This Challenge ends at the end of the month. Enjoy!
+  tasks:
+    todos:
+      -
+        text: ':melior: Join the [Planner Addicts of the Papery Kind](https://habitica.com/#/options/groups/guilds/76cf392c-a530-417a-a105-fd8dc49a651f)'
+        priority: 0
+      -
+        text: ':trophy: Check out the other challenges in the [Planner Addicts of the Papery Kind](https://habitica.com/#/options/groups/guilds/76cf392c-a530-417a-a105-fd8dc49a651f)'
+        notes: -|
+          Suggested Challenges:
+          * Monthly Plan-Ahead
+          * Weekly Plan-Ahead
+          * Monthly Theme
+      -
+        text: 'Review [Stack](http://bulletjournal.com/stacks-and-tags/)'
+        notes: 'What set of modules (collections, spreads, etc.) do you use? Do you need to add anything new?'
+        priority: 2
+      -
+        text: ':books: Resources'
+        notes: |-
+          [Official Bullet Journal Blog](http://bulletjournal.com/blog/)
           [Bullet Journal Reference Sheet](http://www.tinyrayofsunshine.com/blog/bullet-journal-reference-guide)  
           [Bullet Journal (YouTube)](https://www.youtube.com/channel/UCt3B6rUXb__X2eMyY7jzgIg)  
           [Boho Berry (YouTube)](https://www.youtube.com/channel/UCPTjjS_Cqrde9bR9Gz4PqdA)  
@@ -81,13 +134,14 @@
     habits:
       -
         text: ':thought_balloon: Review your tasks'
-        notes: 'Are there lists you haven't checked recently? Tasks you forgot to check off?'
+        notes: Are there lists you haven't checked recently? Tasks you forgot to check off?
         down: false
         priority: 1.5
         frequency: monthly
       -
         text: ':art: Personalize your BuJo!'
         notes: 'Add tape, drawings, stickers, motivational quotes — make your BuJo your own!'
+        down: false
       -
         text: ':speech_balloon: Share your progress with [Planner Addicts of the Papery Kind](https://habitica.com/#/options/groups/guilds/76cf392c-a530-417a-a105-fd8dc49a651f)'
         notes: 'Share pictures, ask questions, give support, etc.'
