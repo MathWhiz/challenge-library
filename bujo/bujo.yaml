@@ -19,11 +19,11 @@
     todos:
       -
         text: ':melior: Join the [Planner Addicts of the Papery Kind](https://habitica.com/#/options/groups/guilds/76cf392c-a530-417a-a105-fd8dc49a651f)'
-        priority: 0
+        priority: 0.5
       -
         text: ':one::movie_camera: Watch the original [Video](https://youtu.be/fm15cmYU0IM)'
         notes: 'This explains the basics of bullet journalling, and how to set it up.'
-        priority: 0
+        priority: 0.5
       -
         text: ':two::notebook: Obtain a notebook'
         notes: 'Any empty notebook will do in a pinch, but consider how you will be using it almost every day. There is the [official Bullet Journal](https://store.bulletjournal.com/), if you are so inclined.'
@@ -43,7 +43,7 @@
       -
         text: ':package: Add Collections to your Journal'
         notes: |-
-          Suggested Ideas:
+          Suggested Ideas
 
           * Books to Read
           * Days Exercised
@@ -61,7 +61,7 @@
           [Boho Berry (YouTube)](https://www.youtube.com/channel/UCPTjjS_Cqrde9bR9Gz4PqdA)  
           [/r/bulletjournal](https://www.reddit.com/r/bulletjournal/)  
           [Official Companion app for iPhone](https://itunes.apple.com/us/app/bullet-journal-companion/id1201419241?mt=8) ($2.99)
-    dailies:
+    dailys:
       -
         text: ':closed_book: Use your Bullet Journal!'
         notes: 'Do a spread, create a collection, review your tasks, etc.'
@@ -106,11 +106,12 @@
     todos:
       -
         text: ':melior: Join the [Planner Addicts of the Papery Kind](https://habitica.com/#/options/groups/guilds/76cf392c-a530-417a-a105-fd8dc49a651f)'
-        priority: 0
+        priority: 0.5
       -
         text: ':trophy: Check out the other challenges in the [Planner Addicts of the Papery Kind](https://habitica.com/#/options/groups/guilds/76cf392c-a530-417a-a105-fd8dc49a651f)'
         notes: -|
-          Suggested Challenges:
+          Suggested Challenges
+          
           * Monthly Plan-Ahead
           * Weekly Plan-Ahead
           * Monthly Theme
@@ -127,7 +128,7 @@
           [Boho Berry (YouTube)](https://www.youtube.com/channel/UCPTjjS_Cqrde9bR9Gz4PqdA)  
           [/r/bulletjournal](https://www.reddit.com/r/bulletjournal/)  
           [Official Companion app for iPhone](https://itunes.apple.com/us/app/bullet-journal-companion/id1201419241?mt=8) ($2.99)
-    dailies:
+    dailys:
       -
         text: ':closed_book: Use your Bullet Journal!'
         notes: 'Do a spread, create a collection, review your tasks, etc.'
