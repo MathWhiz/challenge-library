@@ -1,8 +1,8 @@
 challenge:
-  group: 
-  name: 
-  shortname: 
-  summary: 
+  group: 'fe42fe7f-c957-4473-b9d3-e0f8bcfd3cb1'
+  name: ':satellite: Start Geocaching!'
+  shortname: ':satellite:'
+  summary: 'Start '
   description: 
 tasks:
   todos:
