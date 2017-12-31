@@ -1,0 +1,32 @@
+challenge:
+  group: '925840cf-6fc6-4f47-a2f5-7ed995ca4f52'
+  name: ':sunrise_over_mountains: Play Dwarf Fortress!'
+  shortName: ':sunrise_over_mountains: Dwarf Fortress'
+  summary: 'Learn how to play Dwarf Fortress'
+  description: |-
+      Dwarf Fortress is a single-player fantasy game that revolves around a randomly-generated world, and includes three modes:  
+      
+      * Dwarf Fortress Mode, in which you manage a group of dwarves in a small location
+      * Adventure Mode, in which you explore the entire world with a party
+      * Legends, in which you read about your world's history
+      
+      It is historically known for its steep learning curve, due to it's random nature and it's complex systems. Let's play it!
+tasks:
+  todos:
+    -
+      text: 'Join [The Twelfth Bay](https://habitica.com/groups/guild/925840cf-6fc6-4f47-a2f5-7ed995ca4f52) Guild'
+      priority: 0.1
+    -
+      text: '[What is Dwarf Fortress?](https://df-walkthrough.readthedocs.io/en/latest/misc/what-is-df.html)'
+    -
+      text: 'Download the [Lazy Newb Pack](http://www.lazynewbpack.com/)'
+      notes: 'The LNP allows you to quickly setup Dwarf Fortress in a way that is less frustrating than a vanilla install'
+    -
+      text: 'Read through the [Dwarf Fortress Mode Quickstart Guide](http://dwarffortresswiki.org/DF2014:Quickstart_guide)'
+      priority: 2
+    -
+      text: 'Read through the [Adveture Mode Quickstart Guide](http://dwarffortresswiki.org/index.php/DF2014:Adventure_mode_quick_start)'
+      priority: 2
+  habits:
+    -
+      text: 'Share your progress with the Guild!'
