@@ -1,9 +1,37 @@
 challenge:
   group: 'fe42fe7f-c957-4473-b9d3-e0f8bcfd3cb1'
   name: ':satellite: Start Geocaching!'
-  shortname: ':satellite:'
-  summary: 'Start '
-  description: 
+  shortName: ':satellite:'
+  summary: 'Learn how to geocache!'
+  description: |-
+      Geocaching is a fun treasure-hunt game that involves a GPS. I really enjoy it, and I hope you do too!
 tasks:
   todos:
-    
+    -
+      text: 'Join the [Geocachers Guild](https://habitica.com/groups/guild/fe42fe7f-c957-4473-b9d3-e0f8bcfd3cb1)'
+      priority: 0.1
+    -
+      text: '[What is Geocaching?](https://youtu.be/vuFiLhhCNww)'
+      notes: 'This video explains what Geocaching is and how to get started.'
+      priority: 0.1
+    -
+      text: 'Create a [Geocaching Account](https://www.geocaching.com)'
+      priority: 0.1
+    -
+      text: 'Determine which device to geocache on'
+      notes: |-
+          Mobile :mobile:: [Official Mobile Apps](https://www.geocaching.com/play/mobile), [Approved 3rd-party Apps](https://www.geocaching.com/help/index.php?pg=kb.chapter&id=125&pgid=826)  
+          GPS :milky_way:: [GPS Buyers Guide](https://www.geocaching.com/help/index.php?pg=kb.chapter&id=32&pgid=34)
+    -
+      text: 'Pick a geocache to find'
+      notes: |-
+          [Beginner's Caches](https://www.geocaching.com/play/search?ot=4&types=2,9,3773&sizes=3,4&t=1-1.5&d=1-1.5&e=1)  
+          [Geocaching Map](https://www.geocaching.com/map/)
+      priority: 1.5
+    -
+      text: 'Find the geocache and share with the Guild!'
+      notes: '[10 Tips for Finding a Cache](https://www.geocaching.com/help/index.php?pg=kb.chapter&id=141&pgid=858)'
+      priority: 2
+  habits:
+    -
+      text: 'Share your find with the Guild!'
