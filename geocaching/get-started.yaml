@@ -20,7 +20,7 @@ tasks:
     -
       text: 'Determine which device to geocache on'
       notes: |-
-          Mobile :mobile:: [Official Mobile Apps](https://www.geocaching.com/play/mobile), [Approved 3rd-party Apps](https://www.geocaching.com/help/index.php?pg=kb.chapter&id=125&pgid=826)  
+          Mobile :iphone:: [Official Mobile Apps](https://www.geocaching.com/play/mobile), [Approved 3rd-party Apps](https://www.geocaching.com/help/index.php?pg=kb.chapter&id=125&pgid=826)  
           GPS :milky_way:: [GPS Buyers Guide](https://www.geocaching.com/help/index.php?pg=kb.chapter&id=32&pgid=34)
     -
       text: 'Pick a geocache to find'

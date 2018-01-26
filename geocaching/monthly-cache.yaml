@@ -1,0 +1,68 @@
+challenge:
+  group: '00000000-0000-4000-A000-000000000000'
+  name: ':deciduous_tree: Find a Cache every Month!'
+  shortName: 'Geocaching'
+  summary: 'Enjoy the outdoors!'
+  description: |-
+      [Geocaching](https://geocaching.com) is a GPS-based treasure hunt game that exists all over the world. This year, why not challenge yourself to find at least 1 cache per month?
+  prize: 4
+tasks:
+  todos:
+    -
+      text: 'Join the [Geocachers Guild](https://habitica.com/groups/guild/fe42fe7f-c957-4473-b9d3-e0f8bcfd3cb1)'
+      priority: 0.1
+    -
+      text: 'New to caching? Join the [:satellite: Start Geocaching] Challenge!'
+      priority: 2
+    -
+      text: ':snowman: Found a cache in January!'
+      date: 31-1-2018
+      notes: 'Please share your story with the Guild!'
+    -
+      text: ':sparkling_heart: Found a cache in February!'
+      date: 28-2-2018
+      notes: 'Please share your story with the Guild!'
+    -
+      text: ':four_leaf_clover: Found a cache in March!'
+      date: 31-3-2018
+      notes: 'Please share your story with the Guild!'
+    -
+      text: ':umbrella: Found a cache in April!'
+      date: 30-4-2018
+      notes: 'Please share your story with the Guild!'
+    -
+      text: ':blossom: Found a cache in May!'
+      date: 31-5-2018
+      notes: 'Please share your story with the Guild!'
+    -
+      text: ':bicyclist: Found a cache in June!'
+      date: 30-6-2018
+      notes: 'Please share your story with the Guild!'
+    -
+      text: ':surfer: Found a cache in July!'
+      date: 31-7-2018
+      notes: 'Please share your story with the Guild!'
+    -
+      text: ':sunny: Found a cache in August!'
+      date: 31-8-2018
+      notes: 'Please share your story with the Guild!'
+    -
+      text: ':books: Found a cache in September!'
+      date: 30-9-2018
+      notes: 'Please share your story with the Guild!'
+    -
+      text: ':jack_o_lantern: Found a cache in October!'
+      date: 31-10-2018
+      notes: 'Please share your story with the Guild!'
+    -
+      text: ':fallen_leaf: Found a cache in November!'
+      date: 30-11-2018
+      notes: 'Please share your story with the Guild!'
+    -
+      text: ':gift: Found a cache in December!'
+      date: 31-12-2018
+      notes: 'Please share your story with the Guild!'
+  habits:
+    -
+      text: 'Talk in the Guild!'
+      up: yes
