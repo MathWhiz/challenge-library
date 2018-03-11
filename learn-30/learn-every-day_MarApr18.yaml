@@ -1,0 +1,75 @@
+# form: https://docs.google.com/forms/d/1ikOYJpJBGjuUBVZ2Bq1nZ17cQg2VxFL52aQ5npdziCY/edit
+challenge:
+    name: ':books: Learn for 30 Days – March–April'
+    shortName: ':books: Learn (March–April)'
+    summary: |-
+        Create a habit of learning something new every day, and doing something with it!
+    description: |-
+        :books: Learn for 30 Days — March–April
+        ====
+        This challenge, *originally* inspired by the [Productivityist](https://productivityist.com) article \"[How To Learn Something New Every Day (And Actually Do Something With It)](https://productivityist.com/how-to-learn-something-new-every-day/)\" (not required reading), is designed to help you learn something new **of your choosing** every day for 30 days, and share it with the guild.
+        
+        In order to be eligible for the prize, you must:
+        1. Fill out the [Google Form](https://goo.gl/forms/PG0Z9JuNiZPdFZAm1)
+        2. Post to your output at least **six** times
+        3. Share what you learned directly to the guild at least **once**
+        4. PM me when the above steps have been completed
+        
+        The Dailies will be active from March 18, 2018 to April 21, 2018, after which the Challenge will be judged. However, you can start any time after you join this Challenge.
+        
+        ---
+        Enjoy! Please PM me with any questions.
+        
+        ---
+        Powered by the [Busy Learning](https://habitica.com/groups/guild/870e2ca0-30b1-49df-9107-75188a58cb00) Guild
+    prize: 4
+tasks:
+    todos:
+        -
+            text: ':one: Join the [Busy Learning](https://habitica.com/groups/guild/870e2ca0-30b1-49df-9107-75188a58cb00) Guild'
+            notes: This is a freebie if you've already joined!
+            date: 2018-04-21
+            priority: 0.1
+        -
+            text: ':two: Fill out the [Google Form](https://goo.gl/forms/PG0Z9JuNiZPdFZAm1)'
+            notes: This should take about an hour max, and will lead through setting up your sources.
+            date: 2018-04-21
+            priority: 2
+        -
+            text: ':gem: Messaged Accio Books! that I\'m eligible for the prize!'
+            notes: Check this off after you have posted to your output 7x and shared with the Guild at least once.
+            date: 2018-04-21
+            priority: 2
+    dailys:
+        -
+            text: ':bulb: Consume media'
+            notes: |-
+                You may want to link your curriculum here.
+            startDate: 2018-03-18
+            priority: 1
+        -
+            text: ':outbox_tray: Share media'
+            notes: |-
+                You may want to link your output here.
+            startDate: 2018-03-18
+            priority: 1.5
+    habits:
+        -
+            text: ':email: Share an interesting bit on info you learned to the [Guild](https://habitica.com/groups/guild/870e2ca0-30b1-49df-9107-75188a58cb00)'
+            notes: |-
+                You need to do this at least once to be eligible for the prize.
+            down: no
+            frequency: monthly
+            priority: 1.5
+        -
+            text: ':eyes: Read another participant\'s post'
+            notes: |-
+                Check out the [Guild](https://habitica.com/groups/guild/870e2ca0-30b1-49df-9107-75188a58cb00) for links to everyone else's outputs!
+            down: no
+            frequency: monthly
+            priority: 0.1
+        -
+            text: ':school: Teach someone else what you\'ve learned'
+            down: no
+            frequency: monthly
+            priority: 2
