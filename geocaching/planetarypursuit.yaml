@@ -1,0 +1,110 @@
+challenge:
+  group: '00000000-0000-4000-A000-000000000000'
+    name: ':rocket: Explore the Solar Sytem with Geocaching!'
+    shortName: ':rocket: Planetary Pursuit'
+    summary: |-
+        Geocache from March 19th to April 8th and earn digital souvenirs!
+    description: |-
+        > The year is 2650. You are invited to join the Geocaching Explorers Club and be among the first geocachers to visit every planet in our solar system earning souvenirs along the way.
+        >
+        > — Planetary Pursuit Website
+        
+        Geocache from March 19th to April 8th and earn digital souvenirs!
+        
+        *What is Geocaching?* [Geocaching](https://geocaching.com) is a treasure hunt game played with GPS-enabled devices across the world! Geocachers navigate to a specific set of GPS coordinates and then attempt to find the geocache (container) hidden at that location.
+    prize: 4
+tasks:
+    todos:
+        -
+            text: ':deciduous_tree: Join the [Geocachers Guild](https://habitica.com/groups/guild/fe42fe7f-c957-4473-b9d3-e0f8bcfd3cb1)'
+            priority: 0.1
+        -
+            text: ':baby: New to caching? Join the [:satellite: Start Geocaching]() Challenge!'
+            priority: 1
+        -
+            text: ':couple: Enable your [Friend League](https://www.geocaching.com/play/friendleague)'
+            notes: 'Once you visit the page with your account, you should be all set!'
+            priority: 0.1
+            date: 2018-03-19
+        -
+            text: ':computer: Read the [Planetary Pursuit](https://planetarypursuit.space/english/) Website'
+            priority: 1
+        -
+            text: ':hand: Add friends to your Friend Leauge (optional)'
+            notes: 'Feel free to put your username in the Guild chat'
+            priority: 1
+        -
+            text: ':earth_americas: Earn the Earth Souvenir! (5 points)'
+            priority: 0.1
+            date: 2018-04-08
+        -
+            text: ':volcano: Earn the Venus Souvenir! (10 points)'
+            priority: 0.1
+            date: 2018-04-08
+        -
+            text: ':running: Earn the Mercury Souvenir! (20 points)'
+            priority: 1
+            date: 2018-04-08
+        -
+            text: ':mount_fuji: Earn the Mars Souvenir! (40 points)'
+            priority: 1
+            date: 2018-04-08
+        -
+            text: ':red_circle: Earn the Jupiter Souvenir! (65 points)'
+            priority: 1
+            date: 2018-04-08
+        -
+            text: ':ring: Earn the Saturn Souvenir! (100 points)'
+            priority: 1
+            date: 2018-04-08
+        -
+            text: ':blue_circle: Earn the Uranus Souvenir! (200 points)'
+            priority: 2
+            date: 2018-04-08
+        -
+            text: ':dash: Earn the Neptune Souvenir! (300 points)'
+            priority: 2
+            date: 2018-04-08
+        -
+            text: ':blue_heart: Earn the Pluto Souvenir! (500 points)'
+            priority: 2
+            date: 2018-04-08
+        -
+            text: ':rocket: Earn the Official Space Explorer Souvenir! (All other souvenirs)'
+            notes: 'Wow!'
+            priority: 2
+            date: 2018-04-08
+    habits:
+        -
+            text: ':speech_baloon: Shared your experiences with the Guild!'
+            down: no
+            frequency: monthly
+        -
+            text: ':smile: Log a Found it on any geocache (5 points)'
+            notes: 'There is a maximum of 15 points / geocache log'
+            down: no
+            frequency: monthly
+        -
+            text: ':postbox: Log a Found it on a Multi-Cache/Letterbox Hybrid (10 points)'
+            notes: 'There is a maximum of 15 points / geocache log'
+            down: no
+            frequency: monthly
+        -
+            text: ':question: Log a Found it on a Mystery Cache/EarthCache (15 points)'
+            notes: 'There is a maximum of 15 points / geocache log'
+            down: no
+            frequency: monthly
+        -
+            text: ':heart: Log a Found it on a geocache with 10+ Favorite Points (15 points)'
+            notes: 'There is a maximum of 15 points / geocache log'
+            down: no
+            frequency: monthly
+        -
+            text: ':coffee: Attend an Event (15 points)'
+            notes: 'There is a maximum of 15 points / geocache log'
+            down: no
+            frequency: monthly
+        -
+            text: ':beetle: Drop a trackable (4 points)'
+            down: no
+            frequency: monthly
